@@ -1,0 +1,1 @@
+C# kullanarak kullanıcıdan TC Kimlik numarası,  adını, soyadını , telefon numarasını, yaşını, ilk aldığı ürünün fiyatını, ikinci aldığını ürünün fiyatını soran ve toplam ürün fiyatı ve kazanılan puanı gösteren uygulama.
